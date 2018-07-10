@@ -57,6 +57,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
 * [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 * [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
+* [EasyAr](https://www.easyar.com/) - Similar to Vuforia but easiest and free.
 
 ## Camera
 
